@@ -9,3 +9,5 @@ function srednia_wazona($a, $b) {
     return ($a * $waga1 + $b * $waga2) / ($waga1 + $waga2);
 }
 
+?>
+
